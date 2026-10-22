@@ -6,4 +6,4 @@
 
 | 项目 | 打开展示 | 源码 |
 |---|---|---|
-| 大连金州场站三维运行、铁路来货与应急协同演示 | [在线查看](https://syzhaoln-stack.github.io/jinzhou-station-web/) | [jinzhou-station-web](https://github.com/syzhaoln-stack/jinzhou-station-web) |
+| 金桥铁路物流中心 V6：图卡、构件核对与三维过程 | [在线查看](https://syzhaoln-stack.github.io/jinzhou-station-web/) | [jinzhou-station-web](https://github.com/syzhaoln-stack/jinzhou-station-web) |
