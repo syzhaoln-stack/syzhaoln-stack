@@ -19,6 +19,6 @@
 | 汉江2号大桥7·18架桥机事故教学：交互三维、新闻影像与区域地图，适配手机。 | [在线查看](https://syzhaoln-stack.github.io/hanjiang-718-safety-demo/) | [hanjiang-718-safety-demo](https://github.com/syzhaoln-stack/hanjiang-718-safety-demo) |
 | 看见结构：从变形、选择到验证的交互式结构设计原理课程书 | [在线查看](https://syzhaoln-stack.github.io/seeing-structures/) | [seeing-structures](https://github.com/syzhaoln-stack/seeing-structures) |
 | 《我所理解的桥梁工程》：Quarto 教材、交互可视化与三维模型 | [在线查看](https://syzhaoln-stack.github.io/bridge-engineering-textbook/) | [bridge-engineering-textbook](https://github.com/syzhaoln-stack/bridge-engineering-textbook) |
-| 《请把手弄脏：AI时代的学与玩，或一座桥的哲学》——一个工科教师用两年时间、120万字课堂录音和一座亲手搭建的桥，写给所有不愿被效率吞噬的人。 | [在线阅读](https://syzhaoln-stack.github.io/build-a-bridge/) | [build-a-bridge](https://github.com/syzhaoln-stack/build-a-bridge) |
+| 《请把手弄脏》当前公开修订稿：AI、教学与真实应用，五类桥与十五章的教学散文。 | [在线阅读](https://syzhaoln-stack.github.io/build-a-bridge/) | [build-a-bridge](https://github.com/syzhaoln-stack/build-a-bridge) |
 | SpanCraft - a browser bridge-building game with truss, arch, cable-stayed and suspension bridge levels | [在线查看](https://syzhaoln-stack.github.io/spancraft-bridge-game/) | [spancraft-bridge-game](https://github.com/syzhaoln-stack/spancraft-bridge-game) |
 | Quarto RevealJS report for AI-assisted civil engineering drafting and parametric bridge modeling | [在线查看](https://syzhaoln-stack.github.io/ai-civil-bridge-reveal-report/) | [ai-civil-bridge-reveal-report](https://github.com/syzhaoln-stack/ai-civil-bridge-reveal-report) |
